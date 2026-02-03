@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "react": "/runtime/react.js",
+    "react-dom": "/runtime/react-dom.js",
+    "react-dom/client": "/runtime/react-dom-client.js",
+    "react/jsx-runtime": "/runtime/react-jsx-runtime.js"
+  }
+}
