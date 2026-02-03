@@ -1,0 +1,12 @@
+{
+  "mfeOrders": {
+    "version": "0.1.0",
+    "tagName": "mfe-orders",
+    "entry": "https://mfe-orders.prod.company.com/assets/entry.js"
+  },
+  "mfeCustomers": {
+    "version": "0.1.0",
+    "tagName": "mfe-customers",
+    "entry": "https://mfe-customers.prod.company.com/assets/entry.js"
+  }
+}
